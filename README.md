@@ -37,7 +37,7 @@ I'm always open to collaborations, ideas, and tech discussions! Let's connect:
 If you enjoy what I do or find value in my projects, consider supporting me:
 - ⭐ **Star my repositories**
 - 🤝 **Collaborate on projects**
-- ☕ **https://buymeacoffee.com/udayangadev(#)**
+- ☕ **buymeacoffee.com/UdayangaDev**
 
 ---
 
