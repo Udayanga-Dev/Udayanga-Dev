@@ -11,6 +11,9 @@ I work on projects in:
 
 ## Featured Work
 
+- **Latest Repository: moviereview.site**  
+  A movie review website project. Check it out here: https://github.com/Udayanga-Dev/moviereview.site
+
 - **AI-Powered Chatbot**  
   Conversational system designed to provide reliable, context-aware responses.
 
